@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "createTask",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TaskContract.sol": "TaskContract"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TaskContract.sol": {
+			"keccak256": "0xe714a3cce682350567e49b6249cce64c35982783c79bc950766bd88fecc2f335",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://aa94ba03d1717db8824afff00a099ca84b947249a5bfee69267a9af1332fd372",
+				"dweb:/ipfs/QmXypHHEYA8UVtQT1cXgRtSRdR6rGGG2uTNKmKhuxecrsm"
+			]
+		}
+	},
+	"version": 1
+}
